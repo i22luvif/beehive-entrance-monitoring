@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Entornos
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos y salidas pesadas (no subir)
+data/raw/*
+data/processed/*
+data/annotations/*
+runs/*
+datasets/*
+model/*
+notebooks/*
+
+# Mantener placeholders
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/annotations/.gitkeep
+!runs/.gitkeep
+
+# Config local
+configs/*.local.*
+
+scripts/explicaciones/*
+scripts/mio/*
+scripts/runs/*
+scripts/scripts_con_comentarios/*
