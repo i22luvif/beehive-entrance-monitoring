@@ -27,6 +27,24 @@ El sistema procesa vídeos de la piquera de una colmena para **detectar abejas**
 > [!IMPORTANT]
 > El sistema cuenta **eventos de tránsito**, no individuos biológicamente únicos. Una misma abeja puede producir varios eventos durante una secuencia.
 
+<h2 align="center">🎥 Demostración del sistema</h2>
+
+<p align="center">
+  <a href="https://youtu.be/Ahx4rRrVY9A">
+    <img
+      src="https://img.youtube.com/vi/Ahx4rRrVY9A/maxresdefault.jpg"
+      alt="Demostración de Beehive Entrance Monitoring"
+      width="850">
+  </a>
+</p>
+
+<p align="center">
+  <em>
+    Detección, seguimiento y conteo de eventos IN/OUT en la entrada de la colmena.
+    Haz clic en la imagen para ver el vídeo.
+  </em>
+</p>
+
 ### ✨ Resumen rápido
 
 | Bloque | Resultado / configuración |
